@@ -1,9 +1,3 @@
-# React + Vite
+# Apple Clone Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# apple-website-clone
+This project is a clone of the Apple website, built using **React**, **GSAP (GreenSock Animation Platform)**, and **Tailwind CSS**. The website features an interactive design with animations, video carousels, and smooth transitions, mimicking the Apple website's sleek and modern user interface.
